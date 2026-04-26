@@ -8,8 +8,16 @@ Atualmente, estou focado em evoluir em .NET, aprofundando meus conhecimentos na 
 
 Busco minha primeira oportunidade na área de Tecnologia da Informação, onde eu possa aplicar meus conhecimentos, aprender com profissionais mais experientes e contribuir para o desenvolvimento de soluções eficientes.
 
-##Habilidades Técnicas em Desenvolvimento
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+## Habilidades Técnicas em Desenvolvimento
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  C# • .NET (em aprendizado) • SQL • Git/GitHub • HTML
+</p>
